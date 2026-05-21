@@ -140,16 +140,30 @@ Planned future improvements include:
 - Detection rule creation
 - Attack simulation & monitoring
 - SOC-oriented incident scenarios
+- 
+- ## Lessons Learned
+
+- Active Directory infrastructure deployment in a multi-server environment
+- Windows Server troubleshooting inside GNS3
+- DNS dependency in Active Directory environments
+- AGDLP implementation for scalable access management
+- NTFS permissions and least privilege principles
+- Group Policy deployment and validation
+- Enterprise-style access segmentation
+
+## Screenshots
 
 ## Screenshots
 
 ### GNS3 Topology
-
-
+![Topology](GNS3%20Stellartech.png)
 
 ### Active Directory Structure
+![AD](WindowServer%20DC1%20.png)
 
-share-permissions-engineering
+### NTFS Share Permissions
+![NTFS](share-permissions-engineering.png)
 
 ### Group Policy Management
+![GPO](Fond%20d'écran%20GPO.png)
 
